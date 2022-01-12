@@ -1,0 +1,9 @@
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/install/local.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/install/strip.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/install.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/list_install_components.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/package.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/onig.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/package_source.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/rebuild_cache.dir
+/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build/CMakeFiles/edit_cache.dir

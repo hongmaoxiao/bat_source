@@ -1,0 +1,16 @@
+/Users/xhm/source/backend/rust/bat/target/rls/debug/deps/plist-f248f357e61ce7ea.rmeta: /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/lib.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/binary/mod.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/binary/reader.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/mod.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/reader.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/writer.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/builder.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/date.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/plist.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/mod.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/de.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/ser.rs
+
+/Users/xhm/source/backend/rust/bat/target/rls/debug/deps/plist-f248f357e61ce7ea.d: /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/lib.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/binary/mod.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/binary/reader.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/mod.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/reader.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/writer.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/builder.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/date.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/plist.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/mod.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/de.rs /Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/ser.rs
+
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/lib.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/binary/mod.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/binary/reader.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/mod.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/reader.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/xml/writer.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/builder.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/date.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/plist.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/mod.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/de.rs:
+/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/plist-0.2.4/src/serde/ser.rs:

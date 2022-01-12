@@ -1,0 +1,23 @@
+CMake Deprecation Warning at CMakeLists.txt:2 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+
+DIST_NAME: onig
+DIST_VERSION: 6.8.0
+DIST_LICENSE: BSD
+DIST_AUTHOR: K.Kosako
+DIST_MAINTAINER: K.Kosako
+DIST_URL: https://github.com/kkos/oniguruma
+DIST_DESC: Oniguruma is a regular expressions library.
+DIST_DEPENDS: 
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_CXX_COMPILER
+    CMAKE_CXX_FLAGS
+
+

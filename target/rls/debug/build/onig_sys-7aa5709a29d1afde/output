@@ -1,0 +1,123 @@
+running: "cmake" "/Users/xhm/.cargo/registry/src/github.com-1ecc6299db9ec823/onig_sys-68.0.1/oniguruma" "-DBUILD_SHARED_LIBS=OFF" "-DCMAKE_INSTALL_PREFIX=/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out" "-DCMAKE_C_FLAGS= -ffunction-sections -fdata-sections -fPIC -m64" "-DCMAKE_C_COMPILER=/usr/bin/cc" "-DCMAKE_CXX_FLAGS= -ffunction-sections -fdata-sections -fPIC -m64" "-DCMAKE_CXX_COMPILER=/usr/bin/c++" "-DCMAKE_BUILD_TYPE=Debug"
+-- The C compiler identification is AppleClang 12.0.0.12000032
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Looking for alloca
+-- Looking for alloca - not found
+-- Looking for include file alloca.h
+-- Looking for include file alloca.h - found
+-- Looking for include file stdarg.h
+-- Looking for include file stdarg.h - found
+-- Looking for include file stdint.h
+-- Looking for include file stdint.h - found
+-- Looking for include file stdlib.h
+-- Looking for include file stdlib.h - found
+-- Looking for include file strings.h
+-- Looking for include file strings.h - found
+-- Looking for include file string.h
+-- Looking for include file string.h - found
+-- Looking for include file limits.h
+-- Looking for include file limits.h - found
+-- Looking for include file sys/times.h
+-- Looking for include file sys/times.h - found
+-- Looking for include file sys/time.h
+-- Looking for include file sys/time.h - found
+-- Looking for include file sys/types.h
+-- Looking for include file sys/types.h - found
+-- Looking for include file unistd.h
+-- Looking for include file unistd.h - found
+-- Looking for include file inttypes.h
+-- Looking for include file inttypes.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of int
+-- Check size of int - done
+-- Check size of long
+-- Check size of long - done
+-- Check size of short
+-- Check size of short - done
+-- Looking for 4 include files stdlib.h, ..., float.h
+-- Looking for 4 include files stdlib.h, ..., float.h - found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build
+running: "cmake" "--build" "." "--target" "install" "--config" "Debug" "--"
+Scanning dependencies of target onig
+[  1%] Building C object CMakeFiles/onig.dir/src/regerror.c.o
+[  3%] Building C object CMakeFiles/onig.dir/src/regparse.c.o
+[  5%] Building C object CMakeFiles/onig.dir/src/regext.c.o
+[  7%] Building C object CMakeFiles/onig.dir/src/regcomp.c.o
+[  9%] Building C object CMakeFiles/onig.dir/src/regexec.c.o
+[ 11%] Building C object CMakeFiles/onig.dir/src/reggnu.c.o
+[ 13%] Building C object CMakeFiles/onig.dir/src/regenc.c.o
+[ 15%] Building C object CMakeFiles/onig.dir/src/regsyntax.c.o
+[ 17%] Building C object CMakeFiles/onig.dir/src/regtrav.c.o
+[ 19%] Building C object CMakeFiles/onig.dir/src/regversion.c.o
+[ 21%] Building C object CMakeFiles/onig.dir/src/st.c.o
+[ 23%] Building C object CMakeFiles/onig.dir/src/regposix.c.o
+[ 25%] Building C object CMakeFiles/onig.dir/src/regposerr.c.o
+[ 27%] Building C object CMakeFiles/onig.dir/src/onig_init.c.o
+[ 29%] Building C object CMakeFiles/onig.dir/src/unicode.c.o
+[ 31%] Building C object CMakeFiles/onig.dir/src/ascii.c.o
+[ 33%] Building C object CMakeFiles/onig.dir/src/utf8.c.o
+[ 35%] Building C object CMakeFiles/onig.dir/src/utf16_be.c.o
+[ 37%] Building C object CMakeFiles/onig.dir/src/utf16_le.c.o
+[ 39%] Building C object CMakeFiles/onig.dir/src/utf32_be.c.o
+[ 41%] Building C object CMakeFiles/onig.dir/src/utf32_le.c.o
+[ 43%] Building C object CMakeFiles/onig.dir/src/euc_jp.c.o
+[ 45%] Building C object CMakeFiles/onig.dir/src/sjis.c.o
+[ 47%] Building C object CMakeFiles/onig.dir/src/iso8859_1.c.o
+[ 49%] Building C object CMakeFiles/onig.dir/src/iso8859_2.c.o
+[ 50%] Building C object CMakeFiles/onig.dir/src/iso8859_3.c.o
+[ 52%] Building C object CMakeFiles/onig.dir/src/iso8859_4.c.o
+[ 54%] Building C object CMakeFiles/onig.dir/src/iso8859_5.c.o
+[ 56%] Building C object CMakeFiles/onig.dir/src/iso8859_6.c.o
+[ 60%] Building C object CMakeFiles/onig.dir/src/iso8859_7.c.o
+[ 60%] Building C object CMakeFiles/onig.dir/src/iso8859_8.c.o
+[ 62%] Building C object CMakeFiles/onig.dir/src/iso8859_9.c.o
+[ 64%] Building C object CMakeFiles/onig.dir/src/iso8859_10.c.o
+[ 66%] Building C object CMakeFiles/onig.dir/src/iso8859_11.c.o
+[ 68%] Building C object CMakeFiles/onig.dir/src/iso8859_13.c.o
+[ 70%] Building C object CMakeFiles/onig.dir/src/iso8859_14.c.o
+[ 72%] Building C object CMakeFiles/onig.dir/src/iso8859_15.c.o
+[ 74%] Building C object CMakeFiles/onig.dir/src/iso8859_16.c.o
+[ 76%] Building C object CMakeFiles/onig.dir/src/euc_tw.c.o
+[ 78%] Building C object CMakeFiles/onig.dir/src/euc_kr.c.o
+[ 80%] Building C object CMakeFiles/onig.dir/src/big5.c.o
+[ 82%] Building C object CMakeFiles/onig.dir/src/gb18030.c.o
+[ 84%] Building C object CMakeFiles/onig.dir/src/koi8_r.c.o
+[ 86%] Building C object CMakeFiles/onig.dir/src/cp1251.c.o
+[ 88%] Building C object CMakeFiles/onig.dir/src/euc_jp_prop.c.o
+[ 90%] Building C object CMakeFiles/onig.dir/src/sjis_prop.c.o
+[ 92%] Building C object CMakeFiles/onig.dir/src/unicode_unfold_key.c.o
+[ 94%] Building C object CMakeFiles/onig.dir/src/unicode_fold1_key.c.o
+[ 96%] Building C object CMakeFiles/onig.dir/src/unicode_fold2_key.c.o
+[ 98%] Building C object CMakeFiles/onig.dir/src/unicode_fold3_key.c.o
+[100%] Linking C static library libonig.a
+[100%] Built target onig
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/lib/libonig.a
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/include/oniguruma.h
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/include/onigposix.h
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/include/oniggnu.h
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/API
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/API.ja
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/RE
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/RE.ja
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/FAQ
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/FAQ.ja
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/CALLOUTS.BUILTIN
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/CALLOUTS.BUILTIN.ja
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/doc/UNICODE_PROPERTIES
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/AUTHORS
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/COPYING
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/HISTORY
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/share/onig/README.md
+-- Installing: /Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/lib/pkgconfig/oniguruma.pc
+cargo:root=/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out
+cargo:rustc-link-search=native=/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out/build
+cargo:rustc-link-lib=static=onig

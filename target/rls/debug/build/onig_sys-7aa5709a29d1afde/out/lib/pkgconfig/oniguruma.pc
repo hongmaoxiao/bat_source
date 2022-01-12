@@ -1,0 +1,13 @@
+prefix=/Users/xhm/source/backend/rust/bat/target/rls/debug/build/onig_sys-7aa5709a29d1afde/out
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+datarootdir=${prefix}/share
+datadir=${prefix}/share
+
+Name: oniguruma
+Description: Regular expression library
+Version: 6.8.0
+Requires:
+Libs: -L${libdir} -lonig
+Cflags: -I${includedir}
